@@ -1,0 +1,34 @@
+{
+  "name": "ngx-jazzicon",
+  "version": "1.0.2",
+  "license": "MIT",
+  "description": "Jazzy deterministic identicons for a more entertaining future",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jamforce/ngx-jazzicon"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "angular",
+    "component",
+    "jazzicon",
+    "ethereum",
+    "metamask",
+    "identicon"
+  ],
+  "dependencies": {
+    "mersenne-twister": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/mersenne-twister": "^1.1.2"
+  },
+  "peerDependencies": {
+    "@angular/core": ">= 9.0.0"
+  },
+  "author": {
+    "name": "Jamforce",
+    "url": "https://github.com/Jamforce"
+  }
+}
