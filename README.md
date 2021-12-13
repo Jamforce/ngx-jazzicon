@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/ngx-jazzicon.svg)](https://www.npmjs.com/package/ngx-jazzicon)    [![npm](https://img.shields.io/npm/dw/ngx-jazzicon.svg)](https://www.npmjs.com/package/ngx-jazzicon) [![npm](https://img.shields.io/npm/l/ngx-jazzicon.svg)](https://github.com/Jamforce/ngx-jazzicon/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/ngx-jazzicon.svg)](https://www.npmjs.com/package/ngx-jazzicon)    [![npm](https://img.shields.io/npm/dw/ngx-jazzicon.svg)](https://www.npmjs.com/package/ngx-jazzicon) [![npm](https://img.shields.io/npm/l/ngx-jazzicon.svg)](https://github.com/Jamforce/ngx-jazzicon/blob/main/LICENSE)
 
 
 # NgxJazzicon
